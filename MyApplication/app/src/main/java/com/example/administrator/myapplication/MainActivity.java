@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),"舒羽",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"测试github同步代码",Toast.LENGTH_SHORT).show();
             }
         });
     }
